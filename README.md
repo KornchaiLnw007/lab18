@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:Kornchai Sanchai
+# STUDENT ID:670612114
